@@ -97,7 +97,7 @@ N <- c(nrow(ds[[1]]), nrow(ds[[2]]), nrow(ds[[3]]),
 
 ## The prior are elicited from 
 # https://www.numbeo.com/crime/country_result.jsp?country=<Country>
-informativeness <- 10
+informativeness <- 10 # Parameter to be tuned / chosen
 
 alpha1 <- informativeness * c(2/13, 3/13, 3/13, 1/13, 1/13, 2/13, 1/13) #Belarus
 alpha2 <- informativeness * c(3/17, 2/17, 4/17, 2/17, 2/17, 3/17, 1/17) #Greece
