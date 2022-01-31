@@ -1,5 +1,5 @@
 # SDSII
-Little project done for Statistical Methods in Data Science Part II exam (3 ECTS) @ Sapienza University of Rome
+Small project done for Statistical Methods in Data Science Part II exam (3 ECTS) @ Sapienza University of Rome
 
 ## Violence in East Europe: Overview
 The aim of this study is about what can be done to improve safety in countries of our fellows East-European citizens.
